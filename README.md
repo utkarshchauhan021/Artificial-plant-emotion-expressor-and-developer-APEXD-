@@ -1,0 +1,2 @@
+# Artificial-plant-emotion-expressor-and-developer-APEXD-
+APEXD is a smart plant monitoring device. Just plug it into any plant and it will display the "happiness" level of the plant!, it uses an Arduino attached to a moisture sensor and humidity sensor, which are inserted into/above the soil of the plant. The sensors will read the moisture, temp and humidity content of the soil and surrounding, and then the Arduino calculates what face to display.
